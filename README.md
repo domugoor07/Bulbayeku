@@ -59,7 +59,7 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box   | Yes                 |   52.149.214.24      |
+| Jump Box   | Yes               |   52.149.214.24      |
 | Web-1 DVWA | No                |    10.0.0.4          |
 | Web-2 DVWA | No                |    10.0.0.4          |
   VM-Elk       No                     10.0.0.4
