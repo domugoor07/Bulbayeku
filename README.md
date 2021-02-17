@@ -1,2 +1,0 @@
-# Bulbayeku
-ELK Stack Project
