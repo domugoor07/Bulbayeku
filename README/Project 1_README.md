@@ -40,7 +40,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Jump Box | Gateway  | 10.0.0.4  | Linux             |
 | Web-1    | DVWA 1   | 10.0.0.7  | Linux             |
 | Web-2    | DVWA 2   | 10.0.0.6  | Linux             |
-| VM-Elk   | Monitor   10.1.0.5   | Linux             |
+| VM-Elk   | Monitor  | 10.1.0.5  | Linux             |
 
 ### Access Policies
 
