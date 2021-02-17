@@ -60,7 +60,7 @@ A summary of the access policies in place can be found in the table below.
 | Jump Box | Yes                 |   52.149.214.24      |
 | Web-1    | No                  |    10.0.0.4          |
 | Web-2    | No                  |    10.0.0.4          |
-  VM-Elk     No                       10.0.0.4
+| VM-Elk   | No                  |    10.0.0.4          |
 ### Elk Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
